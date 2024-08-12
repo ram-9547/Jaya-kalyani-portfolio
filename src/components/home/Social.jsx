@@ -7,26 +7,19 @@ const Social = () => {
   return (
     <div className="home__social">
       <a
-        href="https://www.linkedin.com/in/charan-mohan-77891620a/"
+        href="https://www.linkedin.com/in/jaya-kalyani-kommanaboena/"
         className="home__social-icon"
         target="_blank"
       >
         <AiFillLinkedin />
       </a>
       <a
-        href="https://github.com/charanmohan19"
+        href="https://github.com"
         className="home__social-icon"
         target="_blank"
       >
         <AiOutlineGithub />
       </a>
-      {/* <a
-        href="https://codeforces.com/profile/Whizz_Kid"
-        className="home__social-icon"
-        target="_blank"
-      >
-        <SiCodeforces />
-      </a> */}
     </div>
   );
 };

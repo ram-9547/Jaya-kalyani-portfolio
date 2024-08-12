@@ -57,7 +57,7 @@ const Qualification = () => {
                 <span>
                 </span>
                 <div className="qualification__calander">
-                  <i className="uil uil-calendar-alt"></i> 2023 - Present
+                  <i className="uil uil-calendar-alt"></i> 2024 - Present
                 </div>
               </div>
 
@@ -75,56 +75,15 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">B. Tech (Civil Engineering)</h3>
+                <h3 className="qualification__title">B. Tech (Computer Science Engineering)</h3>
                 <span className="qualification__subtitle">
-                Andhra University, Andhra Pradesh
+                Vignan's lara institute of techology and science
                 </span>
                 <span>
-                  CGPA: 7.8
+                  CGPA: 8.5
                 </span>
                 <div className="qualification__calander">
-                  <i className="uil uil-calendar-alt"></i> Aug 2017 – Aug 2021
-                </div>
-              </div>
-            </div>
-
-            <div className="qualification__data">
-              <div>
-                <h3 className="qualification__title">Intermediate (MPC)</h3>
-                <span className="qualification__subtitle">
-                Sri Chaitanya Junior College
-                </span>
-                <span>
-                  Percentage: 87.1%
-                </span>
-                <div className="qualification__calander">
-                  <i className="uil uil-calendar-alt"></i> Apr 2015 - May 2017
-                </div>
-              </div>
-
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-            </div>
-
-            <div className="qualification__data">
-              <div></div>
-
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-              <div>
-                <h3 className="qualification__title">10th </h3>
-                <span className="qualification__subtitle">
-                Sri Chaitanya Public School
-                </span>
-                <span>
-                  CGPA: 8.2
-                </span>
-                <div className="qualification__calander">
-                  <i className="uil uil-calendar-alt"></i> Apr 2014 – Apr 2015
+                  <i className="uil uil-calendar-alt"></i> Aug 2017 – May 2021
                 </div>
               </div>
             </div>
@@ -140,11 +99,11 @@ const Qualification = () => {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">
-                Junior Engineer
+                Data Engineer
                 </h3>
-                <span className="qualification__subtitle">Aparna Exteriors Pvt. Ltd.</span>
+                <span className="qualification__subtitle">Accenture.</span>
                 <div className="qualification__calander">
-                  <i className="uil uil-calendar-alt"></i> Jul 2021 – Aug 2023
+                  <i className="uil uil-calendar-alt"></i> Aug 2021 – Feb 2022
                 </div>
               </div>
               <div>
@@ -160,12 +119,12 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Analytics Intern</h3>
+                <h3 className="qualification__title">Data Analyst</h3>
                 <span className="qualification__subtitle">
-                Vardhan Consulting Engineers 
+                Accenture
                 </span>
                 <div className="qualification__calander">
-                  <i className="uil uil-calendar-alt"></i> Jun 2020 - Jul 2020
+                  <i className="uil uil-calendar-alt"></i> Mar 2022 - Aug 2022
                 </div>
               </div>
             </div>

@@ -6,7 +6,7 @@ const Data = () => {
     <div className="home__data">
       <h1 className="home__title">
         Hey, I'm <br />
-        Murali Krishna Vadlamudi
+        JAYAKALYANI
         {/* <svg
           width="36"
           height="36"

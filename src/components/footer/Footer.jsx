@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer__container container">
-        <h1 className="footer__title">Charan</h1>
+        <h1 className="footer__title">JAYAKALYANI</h1>
 
         <ul className="footer__list">
           <li>
@@ -27,14 +27,7 @@ const Footer = () => {
 
         <div className="footer__social">
           <a
-            href="https://www.instagram.com/ram__das_/"
-            className="footer__social-link"
-            target="_blank"
-          >
-            <i class="bx bxl-instagram"></i>
-          </a>
-          <a
-            href="https://www.linkedin.com/in/ram-das-konala-94142020b/"
+            href="https://www.linkedin.com/in/jaya-kalyani-kommanaboena"
             className="footer__social-link"
             target="_blank"
           >
@@ -44,7 +37,7 @@ const Footer = () => {
 
         <span className="footer__copy">
           {" "}
-          &#169; Murali Krishna. All Rights Reserved
+          &#169; JAYAKALYANI. All Rights Reserved
         </span>
       </div>
     </footer>

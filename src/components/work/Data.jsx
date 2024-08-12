@@ -15,16 +15,14 @@ export const projectsData = [
   {
     id: 2,
     image: Work1,
-    title: "Social Media Website",
+    title: "Event Management System",
     category: "web",
-    link: "https://network-frontend.onrender.com/",
   },
   {
     id: 3,
     image: Work2,
-    title: "Government Fund Allocation and Tracking",
+    title: "Fake product identification using Blockchain",
     category: "Blockchain",
-    link: "https://fund-allocation-and-tracking-using-block-chain.vercel.app/",
   }
 ];
 

@@ -16,9 +16,15 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-          I am Murali Krishna Vadlamudi. Motivated and detail-oriented civil engineer offering a proven track record of success in finishing all construction
-projects within schedule and budget. A great leader with a highly professional attitude and strong determination
-to perform great work. Aspiring to pursue a graduate degree from a reputed institution.<br></br>
+            As a dynamic professional with hands-on experience at Accenture, I bring a unique blend of skills in Data Analysis and Data
+  Engineering. In my 6-month role as a Data Analyst, I honed my abilities to extract actionable insights from complex datasets,
+  interpret business requirements, and present findings to stakeholders using advanced analytical tools. Transitioning to a 6-month
+  stint as a Data Engineer, I demonstrated proficiency in designing and maintaining robust data pipelines. Working with cutting-edge
+  technologies, I ensured seamless ETL processes, data integration, and optimized storage solutions. My hands-on experience with
+  tools such as informatica power center, AWS, MySQL has equipped me to tackle diverse data engineering challenges. My time
+  at Accenture solidified technical capabilities and enhanced collaborative skills in a fast-paced, client-centric environment. Eager
+  to leverage my dual expertise in Data Analysis and Engineering, I aim to contribute to challenging projects, driving data-driven
+  decision-making and innovation.<br></br>
             <br></br>
           </p>
 

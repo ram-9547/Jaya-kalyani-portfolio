@@ -43,7 +43,7 @@ const Contact = () => {
 
               <h3 className="contact__card-title">Email</h3>
               <span className="contact__card-data">
-                  mkv.pegasian@gmail.com
+                kommanaboena@gmail.com 
               </span>
             </div>
 
@@ -51,7 +51,7 @@ const Contact = () => {
               <i className="bx bxl-whatsapp contact__card-icon"></i>
 
               <h3 className="contact__card-title">Whatsapp</h3>
-              <span className="contact__card-data">+91 8885488872</span>
+              <span className="contact__card-data">+17165207568</span>
             </div>
 
             {/* <div className="contact__card">
